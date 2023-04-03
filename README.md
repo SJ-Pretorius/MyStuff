@@ -1,2 +1,2 @@
-# MyStuff
-All of my personal "stuff"!
+# My Stuff
+This is everything I've worked on during my life.
