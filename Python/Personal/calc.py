@@ -1,3 +1,5 @@
+#This is my first ever attempt at making a program, I'm very proud of what I accomplished here.
+#It works, but it's so badly writen.
 print()
 while True:
     #Takes the first number
