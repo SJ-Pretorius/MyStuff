@@ -11,7 +11,6 @@ def func2(word_list):
             longest_word = word
     return len(longest_word), longest_word
 
-
 def func3(norm_str):
     rev_str = norm_str[::-1]
     return rev_str
