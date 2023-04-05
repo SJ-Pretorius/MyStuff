@@ -5,9 +5,9 @@ num = 1537
 factors = []
 
 #2.3 Calculate the prime factors
-factor = 2
+factor = 2 #First prime number
 while num > 1:
-    if num % factor == 0:
+    if num % factor == 0: #Checks if the prime number is a factor of num
         factors.append(factor)
         num = num / factor
     else:
