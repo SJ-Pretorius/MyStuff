@@ -13,4 +13,4 @@ def displayInstructions():
 #weight=int(input(displayInstructions()))
 #moonWeight = weight * MOON_FACTOR
 #print(f'Your weight on the moon would be {round(moonWeight, 2)} pounds!')
-print(f'Your weight on the moon would be {round(int(input(displayInstructions())) * 0.166, 2)} pounds!')
+print(f'Your weight on the moon would be {round(float(input(displayInstructions())) * 0.166, 2)} pounds!')
