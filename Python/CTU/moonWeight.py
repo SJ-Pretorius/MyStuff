@@ -7,8 +7,7 @@ def displayInstructions():
         elif langCode == 2:
             SPANISH_PROMPT = "Por favor entre en su peso en libras >> "
             return SPANISH_PROMPT
-        else:
-            continue
+        continue
 
 #MOON_FACTOR= 0.166
 #weight=int(input(displayInstructions()))
