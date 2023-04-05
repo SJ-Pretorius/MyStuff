@@ -12,12 +12,8 @@ second=word_rev[0:length]
 #Compare the two variables and see if it's the same
 if first == second:
     x=(f"{word.capitalize()} is a palindrome!")
-    print('-'*len(x))
-    print(x)
-    print('-'*len(x))
-
 else:
     x=(f"{word.capitalize()} is not a palindrome!")
-    print('-'*len(x))
-    print(x)
-    print('-'*len(x))
+print('-'*len(x))
+print(x)
+print('-'*len(x))
