@@ -22,9 +22,9 @@ def transfer_funds():
                 x = f'Transfer R{investec_available-budget} (and R{abs(transfer_savings)} from your savings account) to your Absa account!'
                 result_label.config(text=x)
         else:
-            result_label.config(text=f'Amount must be equal or less than R{absa_monthly}!')
+            result_label.config(text=f'Amount in the Absa account must be equal or less than R{absa_monthly}!')
     else:
-        result_label.config(text=f'Amount must be equal or more than R{budget}!')
+        result_label.config(text=f'Amount in the Investec account must be equal or more than R{budget}!')
 
 # Create main window
 root = tk.Tk()
