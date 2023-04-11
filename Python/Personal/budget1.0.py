@@ -34,5 +34,3 @@ while True:
         print()
         print(f'Amount must be equal or more than R{budget}!')
         continue
-#    break
-#print()
