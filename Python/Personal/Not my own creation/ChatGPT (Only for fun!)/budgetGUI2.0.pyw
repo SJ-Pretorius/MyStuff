@@ -1,4 +1,5 @@
 #ChatGPT
+#Logic from budget1.0.py
 import tkinter as tk
 
 def transfer_funds():
