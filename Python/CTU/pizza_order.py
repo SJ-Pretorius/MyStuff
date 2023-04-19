@@ -77,6 +77,7 @@ while True:
         if rep == 'Y' or rep == 'y':
             break
         elif rep == 'N' or rep == 'n':
+            print()
             print('Thank you. Goodbye!')
             print()
             exit()
