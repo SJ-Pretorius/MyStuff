@@ -9,10 +9,10 @@ hue = 0
 
 os.environ['SDL_VIDEO_CENTERED'] = '1'
 RES = WIDTH, HEIGHT = 1920, 1080
-FPS = 60
+FPS = 30
 
-pixel_width = 17
-pixel_height = 17
+pixel_width = 15
+pixel_height = 15
 
 x_pixel = 0
 y_pixel = 0
